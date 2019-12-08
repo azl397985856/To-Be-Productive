@@ -42,18 +42,69 @@ Getting you closer to reaching peak productivity levels.
 
 ### 快捷键 - GUI
 
+> 持续更新
+
 One principle is making shortcuts consistent.
 
 0. system shortcuts[TODO]
 
 - `ctrl + up` show all opened windows
 - `ctrl + down` show all opened windows of actived app
+- `cmd + m` minimize the active window
 
-1. editor[TODO]
+1. editor(vscode)
+
+- `cmd + b` show/hide sidebar
+
+- `cmd + shift + f` Search Text Through All Files At Once
+- `cmd + shift + t` Re-open Last Closed Tab
+
+- `cmd + Backtick` to open the Integrated Terminal
+
+- `option + delete` delete previous word
+- `cmd + delete` delete previous line
+
+- `cmd + x` delete the whole line
+
+- `cmd + k` comment the line
+
+- `cmd + a` move to beginning of line
+- `cmd + e` move to end of line
+
+- `option + arrow up/arrow down` move line up/down
+
+- `cmd + arrow up /arrow down` move to beginning/end of the file
 
 2. terminal[TODO]
 
-3. browser[TODO]
+3. browser(google chrome)
+
+- `cmd + t`
+- `cmd + shift + t`(Open Last Closed Tab)
+
+- `cmd + n`
+- `cmd + w` (Close the Active Right Away)
+
+- `cmd + number` (jump through tabs by tab index)
+
+- `cmd + shift + n` (Go Incognito Mode)
+
+- `cmd + ->`
+- `cmd + <-`
+
+- `cmd + l` focus the 'location bar'
+
+- `cmd + option + l` open the downloads page
+
+- `cmd + shift + delete` clear browser cache
+
+4. google
+
+![](https://tva1.sinaimg.cn/large/006y8mN6gy1g9dy1kml11j30u02pkdsk.jpg)
+
+5. github
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9pkqsp2hbj30u010q4ap.jpg)
 
 ### alias - CLI
 
