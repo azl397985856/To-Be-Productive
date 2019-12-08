@@ -66,7 +66,7 @@ One principle is making shortcuts consistent.
 
 - `cmd + x` delete the whole line
 
-- `cmd + k` comment the line
+- `cmd + /` comment the line
 
 - `cmd + a` move to beginning of line
 - `cmd + e` move to end of line
@@ -105,6 +105,10 @@ One principle is making shortcuts consistent.
 5. github
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9pkqsp2hbj30u010q4ap.jpg)
+
+6. Spectacle
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9plxgv0kkj30y80tq47b.jpg)
 
 ### alias - CLI
 
