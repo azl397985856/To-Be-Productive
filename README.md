@@ -51,6 +51,10 @@ One principle is making shortcuts consistent.
 - `ctrl + up` show all opened windows
 - `ctrl + down` show all opened windows of actived app
 - `cmd + m` minimize the active window
+- `cmd + ,` open setting
+- show/hide of all apps (Thor)
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9rgkxe6b9j30a00edt99.jpg)
 
 1. editor(vscode)
 
