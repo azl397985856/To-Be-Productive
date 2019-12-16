@@ -123,12 +123,14 @@ eg:
 alias cls='clear'
 alias free='top -l 1 | head -n 10 | grep PhysMem'
 alias nis='cnpm i --save'
-alias nid='cnpm i --save-dev'
 alias myip='curl http://ipecho.net/plain'
 alias s="sudo"
 alias proxy='export all_proxy=socks5://127.0.0.1:1086'
 alias unproxy='unset all_proxy'
 alias su="sudo"
+alias bi="brew install"
+alias bci="brew cask install"
+alias tree="ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'"
 ...
 
 # git
