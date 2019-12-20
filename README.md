@@ -58,6 +58,12 @@ One principle is making shortcuts consistent.
 
 1. editor(vscode)
 
+- `ctrl + -` back to previous position
+
+- `ctrl + tab` switch between tabs
+
+- `ctrl + [1-9]` go to specified tab
+
 - `cmd + b` show/hide sidebar
 
 - `cmd + shift + f` Search Text Through All Files At Once
