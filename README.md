@@ -139,11 +139,30 @@ alias bi="brew install"
 alias bci="brew cask install"
 alias tree="ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'"
 ...
-
-# git
-[check it out](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git/)
-# ...
 ```
+
+#### git
+
+```bash
+
+glg	= git log --stat
+gcam = git commit -a -m
+gcb	= git checkout -b
+gco	= git checkout
+gst	= git status
+gss	= git status -s
+gl = git pull
+gp =	git push
+ggp	= git push origin $(current_branch)
+gm	= git merge
+gmom	= git merge origin/master
+gb =	git branch
+gba	= git branch -a
+gbd	= git branch -d
+
+```
+
+for more, [check it out](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git/)
 
 ### 代码片段 - Editor
 
