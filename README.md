@@ -72,8 +72,8 @@ One principle is making shortcuts consistent.
 
 - `cmd + /` comment the line
 
-- `cmd + a` move to beginning of line
-- `cmd + e` move to end of line
+- `ctrl + a` move to beginning of line
+- `ctrl + e` move to end of line
 
 - `option + arrow up/arrow down` move line up/down
 
@@ -132,7 +132,6 @@ alias cls='clear'
 alias free='top -l 1 | head -n 10 | grep PhysMem'
 alias nis='cnpm i --save'
 alias myip='curl http://ipecho.net/plain'
-alias s="sudo"
 alias proxy='export all_proxy=socks5://127.0.0.1:1086'
 alias unproxy='unset all_proxy'
 alias su="sudo"
