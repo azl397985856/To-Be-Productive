@@ -79,7 +79,15 @@ One principle is making shortcuts consistent.
 
 - `cmd + arrow up /arrow down` move to beginning/end of the file
 
-2. terminal[TODO]
+2. terminal
+
+- `cmd + t` open a new tab
+- `cmd + [` move to previous tab（splited pane）
+- `cmd + ]` move to next tab (splited pane)
+- `cmd + shift + [` move to previous tab
+- `cmd + shifr + ]` move to next tab
+- `cmd + w` close current tab
+- [others](https://github.com/azl397985856/learn-shell/projects/1#card-29852506)
 
 3. browser(google chrome)
 
