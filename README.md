@@ -46,7 +46,7 @@ Getting you closer to reaching peak productivity levels.
 
 One principle is making shortcuts consistent.
 
-0. system shortcuts[TODO]
+0. system shortcuts
 
 - `ctrl + up` show all opened windows
 - `ctrl + down` show all opened windows of actived app
