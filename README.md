@@ -6,6 +6,10 @@ Getting you closer to reaching peak productivity levels.
 
 > All the things are based on mac. So if you'r using windows, you'r welcome to send [pull request](https://github.com/azl397985856/To-Be-Productive/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) to me.
 
+## Mac 装机指南
+
+https://github.com/azl397985856/mac-setup
+
 ## 习惯
 
 ### 劳逸结合
@@ -53,6 +57,8 @@ One principle is making shortcuts consistent.
 - `cmd + m` minimize the active window
 - `cmd + ,` open setting
 - show/hide of all apps (Thor)
+- swipe left or right with three fingers 
+> you should configure desktops  first,  3 to 4 desktops is fine.For example one for chat, one for coding, one for browser.
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9rgkxe6b9j30a00edt99.jpg)
 
