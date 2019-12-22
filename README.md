@@ -10,6 +10,10 @@ Getting you closer to reaching peak productivity levels.
 
 [文字版](https://github.com/azl397985856/mac-setup)
 
+## Shell
+
+[learn shell](https://github.com/azl397985856/learn-shell)
+
 ## 习惯
 
 ### 劳逸结合
