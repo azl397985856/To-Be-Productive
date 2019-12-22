@@ -63,6 +63,16 @@ One principle is making shortcuts consistent.
 - swipe left or right with three fingers 
 > you should configure desktops  first,  3 to 4 desktops is fine.For example one for chat, one for coding, one for browser.
 
+- put docker on the left and let it hide automatically
+
+- hot corner
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1ga5l43q3pfj312k0agk6y.jpg)
+
+- make frequently used folders more accessiable
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1ga5l5nqt9qj316s0o8nei.jpg)
+
 1. editor(vscode)
 
 - `ctrl + -` back to previous position
