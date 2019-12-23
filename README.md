@@ -64,7 +64,7 @@ One principle is making shortcuts consistent.
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9rgkxe6b9j30a00edt99.jpg)
 
-- swipe left or right with three fingers(To be shortcuts is more suitable)
+- swipe left or right with three fingers(To me shortcuts(ctrl + left or ctrl + right) is more suitable)
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1ga6fkewqulj30ax03f0sv.jpg)
 
