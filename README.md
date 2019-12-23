@@ -64,7 +64,10 @@ One principle is making shortcuts consistent.
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9rgkxe6b9j30a00edt99.jpg)
 
-- swipe left or right with three fingers 
+- swipe left or right with three fingers(To be shortcuts is more suitable)
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1ga6fkewqulj30ax03f0sv.jpg)
+
 > you should configure desktops  first,  3 to 4 desktops is fine.For example one for chat, one for coding, one for browser.
 
 - put docker on the left and let it hide automatically
