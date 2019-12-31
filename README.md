@@ -1,6 +1,6 @@
 # To-Be-Productive
 
-Getting you closer to reaching peak productivity levels.
+Getting you closer to peak productivity.
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9phshc0wpj31jk0pjju3.jpg)
 
