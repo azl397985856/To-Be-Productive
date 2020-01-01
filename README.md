@@ -8,9 +8,13 @@ Getting you closer to peak productivity.
 
 ## Mac 装机指南
 
+一个好的工作环境是提高效率的第一步。
+
 [文字版](https://github.com/azl397985856/mac-setup)
 
 ## Shell
+
+掌握shell对于一个程序员来说，是一个非常重要且难以掌握的技能。一旦你掌握了，你会发现不仅是从操作技能，甚至是思想和架构层面也能够有所启发。
 
 [learn shell](https://github.com/azl397985856/learn-shell)
 
